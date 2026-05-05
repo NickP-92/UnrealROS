@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projects\\unreal\\deliveryrobots\\source\\deliveryrobots\\deliveryrobots.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\unreal\\deliveryrobots\\intermediate\\build\\win64\\x64\\deliveryrobotseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\projects\\unreal\\deliveryrobots\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\deliveryrobots\\definitions.deliveryrobots.h",
+            "e:\\projects\\unreal\\deliveryrobots\\source\\deliveryrobots\\deliveryrobots.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

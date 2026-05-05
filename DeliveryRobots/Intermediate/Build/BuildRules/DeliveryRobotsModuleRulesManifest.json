@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobots\\DeliveryRobots.Build.cs",
+		"E:\\Projects\\Unreal\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"E:\\Projects\\Unreal\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobots.Target.cs",
+		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobotsEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

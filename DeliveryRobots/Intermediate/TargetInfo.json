@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DeliveryRobots",
+			"Path": "..\\Source\\DeliveryRobots.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DeliveryRobotsEditor",
+			"Path": "..\\Source\\DeliveryRobotsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

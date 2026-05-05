@@ -36,10 +36,10 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"E:/Projects/Unreal/DeliveryRobots/Intermediate/Build/Win64/x64/DeliveryRobotsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"E:/Projects/Unreal/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/DeliveryRobots.cpp.obj"
-"E:/Projects/Unreal/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/PerModuleInline.gen.cpp.obj"
-"E:/Projects/Unreal/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/Default.rc2.res"
+"E:/Github/UnrealROS/DeliveryRobots/Intermediate/Build/Win64/x64/DeliveryRobotsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/Github/UnrealROS/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/DeliveryRobots.cpp.obj"
+"E:/Github/UnrealROS/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/PerModuleInline.gen.cpp.obj"
+"E:/Github/UnrealROS/DeliveryRobots/Intermediate/Build/Win64/x64/UnrealEditor/Development/DeliveryRobots/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"E:/Projects/Unreal/DeliveryRobots/Binaries/Win64/UnrealEditor-DeliveryRobots.dll"
-/PDB:"E:/Projects/Unreal/DeliveryRobots/Binaries/Win64/UnrealEditor-DeliveryRobots.pdb"
+/OUT:"E:/Github/UnrealROS/DeliveryRobots/Binaries/Win64/UnrealEditor-DeliveryRobots.dll"
+/PDB:"E:/Github/UnrealROS/DeliveryRobots/Binaries/Win64/UnrealEditor-DeliveryRobots.pdb"
 /ignore:4078

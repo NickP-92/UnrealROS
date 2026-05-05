@@ -1,5 +1,5 @@
 /I "."
-/I "E:/Projects/Unreal/DeliveryRobots/Source"
+/I "E:/Github/UnrealROS/DeliveryRobots/Source"
 /I "Runtime/Core/Public"
 /I "Runtime/TraceLog/Public"
 /I "Runtime/AutoRTFM/Public"
@@ -287,7 +287,7 @@
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"
 /I "../Plugins/EnhancedInput/Source/EnhancedInput/Public"
-/I "E:/Projects/Unreal/DeliveryRobots/Intermediate/Build/Win64/x64/DeliveryRobotsEditor/Development/UnrealEd"
+/I "E:/Github/UnrealROS/DeliveryRobots/Intermediate/Build/Win64/x64/DeliveryRobotsEditor/Development/UnrealEd"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"

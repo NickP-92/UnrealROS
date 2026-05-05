@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobots\\DeliveryRobots.Build.cs",
-		"E:\\Projects\\Unreal\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
-		"E:\\Projects\\Unreal\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
-		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobots.Target.cs",
-		"E:\\Projects\\Unreal\\DeliveryRobots\\Source\\DeliveryRobotsEditor.Target.cs"
+		"E:\\Github\\UnrealROS\\DeliveryRobots\\Source\\DeliveryRobots\\DeliveryRobots.Build.cs",
+		"E:\\Github\\UnrealROS\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"E:\\Github\\UnrealROS\\DeliveryRobots\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"E:\\Github\\UnrealROS\\DeliveryRobots\\Source\\DeliveryRobots.Target.cs",
+		"E:\\Github\\UnrealROS\\DeliveryRobots\\Source\\DeliveryRobotsEditor.Target.cs"
 	],
 	"EngineVersion": "5.7.4"
 }

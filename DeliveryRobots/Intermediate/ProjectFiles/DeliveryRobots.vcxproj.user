@@ -33,7 +33,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
     <LocalDebuggerCommandArguments>"$(SolutionDir)DeliveryRobots.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArgumentsHistory>"E:\Projects\Unreal\DeliveryRobots\DeliveryRobots.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
+    <LocalDebuggerCommandArgumentsHistory>"E:\Projects\Unreal\DeliveryRobots\DeliveryRobots.uproject" -skipcompile|"E:\Github\UnrealROS\DeliveryRobots\DeliveryRobots.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64_Development_Editor|x64'">
     <RemoteDebuggerCommandArguments>"$(SolutionDir)DeliveryRobots.uproject" -skipcompile</RemoteDebuggerCommandArguments>
